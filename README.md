@@ -1,10 +1,38 @@
-# simple_crm
+# Simple CRM App
 
-A new Flutter project.
+A Flutter-based **Customer Relationship Management (CRM)** mobile application.  
+This project is designed to help manage customers and notes, with features like customer listing, note-taking, and basic authentication.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- 📋 Customer management (add, view, edit, delete customers)
+- 📝 Notes management (create and organize notes)
+- 🔐 Login & authentication
+- 📱 Cross-platform support (Android & iOS)
+- 🎨 Clean and simple UI with Material Design
+
+---
+
+## 🛠️ Tech Stack
+- **Flutter** (Dart)
+- **Firebase** (Authentication, Firestore, Storage)
+- **Provider / State Management** (if used)
+- **Mock REST API** support (for testing)
+
+---
+
+## 📦 Getting Started
+
+### Prerequisites
+- [Flutter SDK](https://docs.flutter.dev/get-started/install) installed
+- Android Studio / Xcode (for emulator or real device testing)
+- A configured Firebase project (if using Firebase features)
+
+### Installation
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/<your-username>/simple_crm.git
 
 A few resources to get you started if this is your first Flutter project:
 
