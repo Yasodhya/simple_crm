@@ -32,7 +32,7 @@ This project is designed to help manage customers and notes, with features like 
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/simple_crm.git
+   git clone https://github.com/<Yasodhya>/simple_crm.git
 
 A few resources to get you started if this is your first Flutter project:
 
